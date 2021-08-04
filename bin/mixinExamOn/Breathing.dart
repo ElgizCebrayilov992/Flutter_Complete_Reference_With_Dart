@@ -1,0 +1,3 @@
+mixin Breathing {
+  void breath() {}
+}

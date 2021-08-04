@@ -1,0 +1,3 @@
+mixin Coding {
+void code() {}
+}
